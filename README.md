@@ -19,7 +19,6 @@ Then I used classification model to predict the salary by making lower and highe
 
 Methods & Models Used:
 NLP:
-
 TF-IDF vectorization
 Count vectorization
 
@@ -33,6 +32,7 @@ Scoring based on ROC AUC
 Cross Validation
 
 **Job title file**
+
 Prediciting job title based on Job description
 
 Methods & Models Used:
