@@ -1,11 +1,14 @@
 **Predicting Salary**
+
 Predicting salary for data science related jobs.
 This data set was scraped from seek.com.au on 13.11.2019. The scrape was based on job roles advertised in Australia related to the Job Title 'Data Analyst' and 'Data Scientist'.
 
 **EDA file:**
+
 I have done data cleaning and data visualisation with this file
 
 **Modelling file**
+
 Initially, I used regression models by imputing salary values (EDA file). Regression MOdels used:
 KNN Regression
 Super Vector Regression
